@@ -1,9 +1,7 @@
 ---
-name: "Feature Request"
-about: "Request a feature"
-title: "feat: "
-labels: bug
-assignees: "derekprior, tooomm"
+name: Tracking issue
+about: Use this template for tracking new features.
+title: "[DATE]: [FEATURE NAME]"
+labels: tracking issue, needs triage, bug
+assignees: octocat
 ---
-
-Body of my template
