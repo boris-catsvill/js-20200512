@@ -2,7 +2,7 @@
 name: "Feature Request"
 about: "Request a feature"
 title: "feat: "
-labels: "bug"
+labels: bug
 assignees: "derekprior, tooomm"
 ---
 
